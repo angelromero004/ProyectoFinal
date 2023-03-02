@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(241, 128, 63); 
+    border-width: 20px; 
+    border: 5px  solid black"
+    }
+    h1{
+    color: black;
+    }
+    p{
+    color: black;
+    font-size: 18px;
+    }
+    h2{
+        color: black;
+               }
+    label{
+    color: black;
+    font-size: 18px;
+    }
