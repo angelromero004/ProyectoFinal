@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Autoescuela Gøde</title>
+    <link>https://angelromero004.github.io/ProyectoFinal/ProyectoFinal.html</link>
+    <description>Este es un canal de noticias sobre la página web de la autoescuela</description>
+    <language>es</language>
+    
+    <item>
+      <title>Noticias sobre examenes teóricos</title>
+      <link>https://www.antena3.com/noticias/temas/examen_de_conducir-1</link>
+       <description>Página infórmativa sobre el examen teorico de conducir</description>
+    </item>
+    
+      <item>
+      <title>Noticias sobre examenes prácticos</title>
+      <link>https://www.antena3.com/noticias/economia/carne-conducir-atasca-esperas-4-meses-hacer-examen-practico_202303066405fae61e80a40001517ca2.html</link>
+       <description>Página infórmativa sobre el examen práctico de conducir</description>
+    </item>
+    
+      <item>
+      <title>Noticias sobre los factores que enfrentan los conductores</title>
+      <link>https://espanol.nichd.nih.gov/salud/temas/driving/informacion/factores</link>
+       <description>Página infórmativa sobre los factores que enfrentan los conductores</description>
+    </item>
+    
+      </channel>
+</rss>
